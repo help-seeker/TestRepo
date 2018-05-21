@@ -1,0 +1,1 @@
+In this tutorial, I will explain how to use Git for your personal projects. We will assume you are creating a project from scratch and want to manage it with Git. After going through the basic commands, we will have a look at how you could put your code in the cloud using GitHub.

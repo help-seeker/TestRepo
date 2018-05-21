@@ -1,0 +1,1 @@
+It is important to note that if you do not set your name and email, certain default values will be used. In our case, the username ‘donny’ and email ‘donny@ubuntu’ would be the default values.
